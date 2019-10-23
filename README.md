@@ -4,4 +4,4 @@ This repo describes an issue with nyc coverage where files without tests don't s
 
 ## How to use
 
-Run `npm install` and then `npm test`. Coverage is 100% but it shouldn't.
+Run `npm install` and then `npm test`. Coverage is 100% but it shouldn't be.
